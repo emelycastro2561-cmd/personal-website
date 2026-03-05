@@ -1,9 +1,21 @@
 img {
     width: 200px;
+    display: block;
+    margin: 20px auto;
+    clear: both; 
 }
 body {
     text-align: center;
     font-family: 'Arial';
     background: cornsilk;
     color: purple;
+
+}
+.spotify-track {
+    width: 200px;
+    height: 100px; 
+    float: right;
+    margin: 20px; 
+
+
 }
