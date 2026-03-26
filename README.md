@@ -40,7 +40,7 @@ This is my first personal website built to showcase the HTML fundamentals I lear
 < p > : A paragraph/text
 
   
-## CSS Elements
+## CSS Elements:
 - body: Styles the whole page (font, background color, text color, alignment)
 - img: Controls image size, spacing, and centers it
 - .spotify-track: A class used to style the Spotify iframe (size, position, margins)
