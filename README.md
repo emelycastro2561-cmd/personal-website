@@ -35,15 +35,15 @@ This is my first personal website built to showcase the HTML fundamentals I lear
   
 ## Inside the body:
 <iframe>: Embeds external content (your Spotify music player)
-<img>: Displays an image from an online source
-<h1>: A main heading
-<p>: A paragraph/text
+<img>:Displays an image from an online source
+<h1>:A main heading
+<p>:A paragraph/text
 
   
-CSS Elements
-body: Styles the whole page (font, background color, text color, alignment)
-img: Controls image size, spacing, and centers it
-.spotify-track: A class used to style the Spotify iframe (size, position, margins)
+##CSS Elements
+- body: Styles the whole page (font, background color, text color, alignment)
+- img: Controls image size, spacing, and centers it
+- .spotify-track: A class used to style the Spotify iframe (size, position, margins)
 
 
 
